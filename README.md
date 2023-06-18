@@ -9,7 +9,7 @@ Soy frontend y Android developer apasionado por crear experiencias digitales sor
 - 💡 Me encanta explorar soluciones innovadoras y creativas para los desafíos técnicos.
 - 💬 Puedes contactarme para discutir colaboraciones, oportunidades laborales o simplemente para decir hola.
 
-¡No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tienes alguna pregunta o sugerencia, estaré encantado de escucharte.
+No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tienes alguna pregunta o sugerencia, estaré encantado de escucharte.
 
 ¡Gracias por visitar mi perfil! 😊
 
