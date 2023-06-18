@@ -22,30 +22,31 @@ Soy frontend y Android developer apasionado por crear experiencias digitales sor
 
 # Tecnologías, Lenguajes y Herramientas
 
-## Lenguajes de Marcado
+
   ![HTML 5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
 
-## Hojas de Estilo
+
   ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
   ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)
   ![Less](https://img.shields.io/badge/less-1D365D?style=for-the-badge&logo=less&logoColor=white&labelColor=1D365D)
 
-## Lenguajes de Programación
+
   ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)
   ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)
   ![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)
 
-## Frameworks
+
   ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
   ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
 
-## Bases de Datos
+
   ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
   ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)]()
 
-## Herramientas de Diseño
+
   ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)
 
 
