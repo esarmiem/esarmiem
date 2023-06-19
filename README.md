@@ -33,7 +33,7 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 
   ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)
-  ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)
 
 
