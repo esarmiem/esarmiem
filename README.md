@@ -39,6 +39,7 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 
 
   ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
+  <a href='https://astro.build/' target="_blank"><img alt='astro' src='https://img.shields.io/badge/Astro-100000?style=for-the-badge&logo=astro&logoColor=white&labelColor=1ECD54&color=1ECD54'/></a>
   ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
   ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
 
