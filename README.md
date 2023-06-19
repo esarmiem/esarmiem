@@ -2,7 +2,7 @@
 
 ### (esarmiem) 👋💻
 # **¿QUIÉN SOY?**
-Soy frontend y Android developer apasionado por crear experiencias digitales sorprendentes. Me encanta trabajar en proyectos desafiantes y colaborar con personas apasionadas por la tecnología.
+Frontend y Android developer apasionado por crear experiencias digitales sorprendentes. Me encanta trabajar en proyectos desafiantes y colaborar con personas apasionadas por la tecnología.
 
 - 🔭 Actualmente estoy trabajando en mi portafolio web.
 - 🌱 Estoy aprendiendo constantemente nuevas tecnologías y frameworks.
