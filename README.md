@@ -29,6 +29,7 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
   ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
   ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)
   ![Less](https://img.shields.io/badge/less-1D365D?style=for-the-badge&logo=less&logoColor=white&labelColor=1D365D)
+  ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white)
 
 
   ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
