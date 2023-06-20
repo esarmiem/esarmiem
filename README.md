@@ -1,4 +1,5 @@
-![banner github](https://github.com/esarmiem/esarmiem/assets/114357859/fd6dd234-6322-418c-89c2-b7523ccc0dc8)
+![banner](https://github.com/esarmiem/esarmiem/assets/114357859/41112175-7484-4a0e-915f-c99e4acc22a7)
+
 
 ### (esarmiem) 👋💻
 # **¿QUIÉN SOY?**
