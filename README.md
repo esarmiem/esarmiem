@@ -25,8 +25,6 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 
 
   ![HTML 5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-
-
   ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
   ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)
   ![Less](https://img.shields.io/badge/less-1D365D?style=for-the-badge&logo=less&logoColor=white&labelColor=1D365D)
@@ -37,10 +35,12 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
   ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 
   ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
   <a href='https://astro.build/' target="_blank"><img alt='astro' src='https://img.shields.io/badge/Astro-100000?style=for-the-badge&logo=astro&logoColor=white&labelColor=1ECD54&color=1ECD54'/></a>
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
   ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
 
@@ -51,6 +51,10 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 
 
   ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![NetBeans IDE](https://img.shields.io/badge/NetBeans_IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/Intelli_JIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
 ## **Formación Académica**
