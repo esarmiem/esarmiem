@@ -63,7 +63,3 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 - **Tecnólogo en Análisis y Desarrollo de Software** - SENA
 - **Técnico en Desarrollo de Software** - CESDE
 - **Tecnólogo en Telecomunicaciones** - SENA
-
-[![esarmiem top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esarmiem&theme=blue-green)](https://github.com/esarmiem/github-readme-stats)
-[![esarmiem github stats](https://github-readme-stats.vercel.app/api?username=esarmiem&theme=blue-green)](https://github.com/esarmiem/github-readme-stats)
-[![esarmiem github streak](https://github-readme-streak-stats.herokuapp.com/?user=esarmiem&theme=blue-green)](https://github.com/esarmiem/github-readme-streak-stats)
