@@ -62,5 +62,5 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 
 ## **Formación Académica**
 - **Tecnólogo en Análisis y Desarrollo de Software** - SENA
-- **Técnico en Desarrollo de Software** - CESDE
-- **Tecnólogo en Telecomunicaciones** - SENA
+- **Técnico en Análisis y Desarrollo de Software** - CESDE
+- **Tecnólogo en Sistemas y Telecomunicaciones** - SENA
