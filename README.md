@@ -8,7 +8,7 @@
 # **¿QUIÉN SOY?**
 Frontend y Mobile developer apasionado por crear experiencias digitales sorprendentes. Me encanta trabajar en proyectos desafiantes y colaborar con personas apasionadas por la tecnología.
 
-- 🔭 Actualmente estoy trabajando en mi portafolio web.
+- 🔭 Actualmente estoy trabajando en mi portafolio web y en una App android del Spiderverse 🕷️.
 - 🌱 Estoy aprendiendo constantemente nuevas tecnologías y frameworks.
 - 💡 Me encanta explorar soluciones innovadoras y creativas para los desafíos técnicos.
 - 💬 Puedes contactarme para discutir colaboraciones, oportunidades laborales o simplemente para decir hola.
