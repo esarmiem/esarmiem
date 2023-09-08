@@ -8,7 +8,7 @@
 # **¿QUIÉN SOY?**
 Frontend y Mobile developer apasionado por crear experiencias digitales sorprendentes. Me encanta trabajar en proyectos desafiantes y colaborar con personas apasionadas por la tecnología.
 
-- 🔭 Actualmente estoy trabajando en mi web de recursos y una app en flutter.
+- 🔭 Actualmente estoy trabajando en mi web de recursos para desarrolladores y una app en flutter.
 - 🌱 Estoy aprendiendo constantemente nuevas tecnologías y frameworks.
 - 💡 Me encanta explorar soluciones innovadoras y creativas para los desafíos técnicos.
 - 💬 Puedes contactarme para discutir colaboraciones, oportunidades laborales o simplemente para decir hola.
