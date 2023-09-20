@@ -12,6 +12,9 @@ Frontend y Mobile developer apasionado por crear experiencias digitales sorprend
 - 🌱 Estoy aprendiendo constantemente nuevas tecnologías y frameworks.
 - 💡 Me encanta explorar soluciones innovadoras y creativas para los desafíos técnicos.
 - 💬 Puedes contactarme para discutir colaboraciones, oportunidades laborales o simplemente para decir hola.
+  
+
+🔗 Comparto recursos de programación en mi [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elder-sarmiento)
 
 No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tienes alguna pregunta o sugerencia, estaré encantado de escucharte.
 
