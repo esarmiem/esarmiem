@@ -6,15 +6,15 @@
 
 ### (esarmiem) 👋💻
 # **¿QUIÉN SOY?**
-Frontend y Mobile developer apasionado por crear experiencias digitales sorprendentes. Me encanta trabajar en proyectos desafiantes y colaborar con personas apasionadas por la tecnología.
+Frontend y Mobile developer apasionado por crear experiencias digitales sorprendentes. Poseo conocimientos en diversas áreas, incluyendo programación, bases de datos, redes, telecomunicaciones y sistemas operativos.
 
-- 🔭 Actualmente estoy trabajando en mi web de recursos para desarrolladores y una app en flutter.
+- 🔭 Actualmente estoy trabajando en una aplicación web para automatizar procesos en entornos empresariales.
 - 🌱 Estoy aprendiendo constantemente nuevas tecnologías y frameworks.
 - 💡 Me encanta explorar soluciones innovadoras y creativas para los desafíos técnicos.
 - 💬 Puedes contactarme para discutir colaboraciones, oportunidades laborales o simplemente para decir hola.
   
 
-🔗 Comparto recursos de programación en mi [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elder-sarmiento)
+🔗 Comparto recursos de programación y noticias de tecnología en mi [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elder-sarmiento)
 
 No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tienes alguna pregunta o sugerencia, estaré encantado de escucharte.
 
@@ -45,6 +45,7 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 
 
   ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
   <a href='https://astro.build/' target="_blank"><img alt='astro' src='https://img.shields.io/badge/Astro-100000?style=for-the-badge&logo=astro&logoColor=white&labelColor=1ECD54&color=1ECD54'/></a>
   
