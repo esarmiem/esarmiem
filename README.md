@@ -6,7 +6,7 @@
 
 ### (esarmiem) 👋💻
 # **¿QUIÉN SOY?**
-Frontend y Mobile developer apasionado por crear experiencias digitales sorprendentes. Poseo conocimientos en diversas áreas, incluyendo programación, bases de datos, redes, telecomunicaciones y sistemas operativos.
+Frontend y Mobile developer apasionado por crear experiencias digitales sorprendentes.
 
 - 🔭 Actualmente estoy trabajando en una aplicación web para automatizar procesos en entornos empresariales.
 - 🌱 Estoy aprendiendo constantemente nuevas tecnologías y frameworks.
