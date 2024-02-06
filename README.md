@@ -20,6 +20,8 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 
 Te dejo el enlace a mi [portafolio](https://esarmiem-links.com/) aquí conocerás un poco más de mi 📲
 
+Visita mi blog de recursos [esarmiemdev.com](https://esarmiemdev.blog/) 📗
+
 ¡Gracias por visitar mi perfil! 😊
 
 
