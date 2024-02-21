@@ -70,3 +70,5 @@ Visita mi blog de recursos [esarmiemdev.com](https://esarmiemdev.blog/) 📗
 - **Tecnólogo en Análisis y Desarrollo de Software** - SENA
 - **Técnico en Análisis y Desarrollo de Software** - CESDE
 - **Tecnólogo en Sistemas y Telecomunicaciones** - SENA
+
+<a href="https://app.daily.dev/esarmiem"><img src="https://api.daily.dev/devcards/v2/HGpk4WCWaXW7iCjfx8HhL.png?r=e7q&type=wide" width="652" alt="elder sarmiento's Dev Card"/></a>
