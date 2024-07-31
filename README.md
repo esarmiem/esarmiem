@@ -9,6 +9,8 @@
 # **¿QUIÉN SOY?**
 Software developer apasionado por crear experiencias digitales sorprendentes.
 
+CTO y Fundador de Alaska Tech [![Alaska Tech](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/alaskatech/)
+
 - 🔭 Actualmente estoy trabajando en una aplicación web para automatizar procesos en entornos empresariales.
 - 🌱 Estoy aprendiendo constantemente nuevas tecnologías y frameworks.
 - 💡 Me encanta explorar soluciones innovadoras y creativas para los desafíos técnicos.
@@ -18,8 +20,6 @@ Software developer apasionado por crear experiencias digitales sorprendentes.
 🔗 Comparto recursos de programación y noticias de tecnología en mi [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elder-sarmiento)
 
 No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tienes alguna pregunta o sugerencia, estaré encantado de escucharte.
-
-Te dejo el enlace a mi [portafolio](https://esarmiem-links.com/) aquí conocerás un poco más de mi 📲
 
 Visita mi blog de recursos [esarmiemdev.com](https://esarmiemdev.blog/) 📗
 
