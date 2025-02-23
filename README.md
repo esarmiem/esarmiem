@@ -21,7 +21,7 @@ CTO y Fundador de Alaska Tech [![Alaska Tech](https://img.shields.io/badge/linke
 
 No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tienes alguna pregunta o sugerencia, estaré encantado de escucharte.
 
-Visita mi blog de recursos [esarmiemdev.com](https://esarmiemdev.blog/) 📗
+Visita mi blog de recursos [esarmiemdev.com](https://esarmiemdev.vercel.app/) 📗
 
 ¡Gracias por visitar mi perfil! 😊
 
