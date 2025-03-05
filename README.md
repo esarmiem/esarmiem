@@ -6,33 +6,32 @@
 
 
 ### (esarmiem) 👋💻
-# **¿QUIÉN SOY?**
-Software developer apasionado por crear experiencias digitales sorprendentes.
+# **WHO AM I?**
 
-CTO y Fundador de Alaska Tech [![Alaska Tech](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/alaskatech/)
+CTO and Founder of Alaska Tech [![Alaska Tech](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/alaskatech/)
 
-- 🔭 Actualmente estoy trabajando en una aplicación web para automatizar procesos en entornos empresariales.
-- 🌱 Estoy aprendiendo constantemente nuevas tecnologías y frameworks.
-- 💡 Me encanta explorar soluciones innovadoras y creativas para los desafíos técnicos.
-- 💬 Puedes contactarme para discutir colaboraciones, oportunidades laborales o simplemente para decir hola.
+- 🔭 I am currently working on a web application to automate processes in business environments.
+- 🌱 I am constantly learning new technologies and frameworks.
+- 💡 I love exploring innovative and creative solutions to technical challenges.
+- 💬 You can contact me to discuss collaborations, job opportunities or just to say hello.
   
 
-🔗 Comparto recursos de programación y noticias de tecnología en mi [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elder-sarmiento)
+🔗 I share programming resources and technology news in my [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elder-sarmiento)
 
-No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tienes alguna pregunta o sugerencia, estaré encantado de escucharte.
+Feel free to browse my repositories to see some of my projects! If you have any questions or suggestions, I'll be happy to hear from you.
 
-Visita mi blog de recursos [esarmiemdev.com](https://esarmiemdev.vercel.app/) 📗
+Visit my resources blog [esarmiemdev.com](https://esarmiemdev.vercel.app/) 📗
 
-¡Gracias por visitar mi perfil! 😊
+Thanks for visiting my profile! 😊
 
 
-¡Escríbeme! ☕
+Write me! ☕
 
 [![Gmail](https://img.shields.io/badge/Gmail-Elder_Sarmiento-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:eldersarmiento1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elder_Sarmiento-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/elder-sarmiento)
 
 
-# Tecnologías, Lenguajes y Herramientas
+# Technologies, Languages and Tools
 
 
   ![HTML 5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
@@ -67,7 +66,7 @@ Visita mi blog de recursos [esarmiemdev.com](https://esarmiemdev.vercel.app/) �
   ![IntelliJ IDEA](https://img.shields.io/badge/Intelli_JIDEA-B16AD1.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-## **Formación Académica**
-- **Tecnólogo en Análisis y Desarrollo de Software** - SENA
-- **Técnico en Análisis y Desarrollo de Software** - CESDE
-- **Tecnólogo en Sistemas y Telecomunicaciones** - SENA
+## **Academic Background**
+- **Technologist in Software Analysis and Development** - SENA
+- **Technician in Software Analysis and Development** - CESDE
+- **Systems and Telecommunications Technologist** - SENA
